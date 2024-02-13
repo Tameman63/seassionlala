@@ -137,7 +137,7 @@ output application/json
             </ee:message>
         </ee:transform>
     </flow>
-    <flow name="post:\news:application\json:tamir-session3-config">
+    <flow name="post:\news:application\json:tamir-session-4-config">
         <ee:transform>
             <ee:message>
                 <ee:set-payload><![CDATA[%dw 2.0
